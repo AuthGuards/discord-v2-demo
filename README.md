@@ -220,6 +220,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+![AuthGuards Demo](./screen.png)
+
 <div align="center">
 
 **🛡️ Built with ❤️ by [AuthGuards](https://authguards.com)**
