@@ -219,6 +219,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **AuthGuards Community** - For feedback and support
 
 ---
+<div align="center">
 
 ![AuthGuards Demo](./screen.png)
 
